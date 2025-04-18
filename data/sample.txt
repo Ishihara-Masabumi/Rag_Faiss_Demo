@@ -1,0 +1,5 @@
+LangChain is a framework for developing applications powered by language models.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+RAG combines retrieval and generation to enhance the quality of answers from LLMs.
+Python is commonly used for AI and ML development.
+
