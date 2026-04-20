@@ -1,0 +1,8 @@
+.venv/
+.vendor/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+tmp/
+faiss_index/
