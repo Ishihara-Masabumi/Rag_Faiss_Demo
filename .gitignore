@@ -6,3 +6,4 @@ __pycache__/
 .env.*
 tmp/
 faiss_index/
+benchmark_artifacts/
